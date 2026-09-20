@@ -1,8 +1,8 @@
 ## Hola
 
-# Dalmiro Cordeyro
+#Soy Dalmiro Cordeyro
 
-Repositorio de Dalmiro Cordeyro.
+...Este es mi repositorio personal.
 
 ## Proyectos Destacados
 
